@@ -1,0 +1,31 @@
+.card-1 {
+    background-color: #ffffff;
+    padding: 1.5rem;
+    border-top: 5px solid #ff4f64;
+    border-radius: 1rem;
+    width: 35%;
+}
+
+.card-2 {
+    background-color: #ffffff;
+    padding: 1.5rem;
+    border-top: 5px solid #00a8e7;
+    border-radius: 1rem;
+    width: 35%;
+}
+
+.card-3 {
+    background-color: #ffffff;
+    padding: 1.5rem;
+    border-top: 5px solid #44c4a1;
+    border-radius: 1rem;
+    width: 35%;
+}
+
+.card-4 {
+    background-color: #ffffff;
+    padding: 1.5rem;
+    border-top: 5px solid #fcc200;
+    border-radius: 1rem;
+    width: 35%;
+}
